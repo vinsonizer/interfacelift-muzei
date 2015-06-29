@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">InterfaceLift Random</string>
+	<string name="prefs_name">InterfaceLift Settings</string>
+	<string name="description">Random InterfaceLift Images</string>
+	<string name="title">InterfaceLift</string>
+	<string name="pref_refresh_period">Refresh Period</string>
+	<string name="pref_refresh_period_default">60</string>
+</resources>

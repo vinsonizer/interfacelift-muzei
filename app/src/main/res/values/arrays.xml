@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_refresh_period_entries">
+        <item>Once A Day</item>
+        <item>Twice A Day</item>
+        <item>Once An Hour</item>
+        <item>Every Half Hour</item>
+        <item>Every Ten Minutes</item>
+        <item>Ludicrous Speed (Every Minute)</item>
+    </string-array>
+    <string-array name="pref_refresh_period_values">
+        <item>1440</item>
+        <item>720</item>
+        <item>60</item>
+        <item>30</item>
+        <item>10</item>
+        <item>1</item>
+    </string-array>
+</resources>

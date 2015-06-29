@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="pref_refresh_period"
+        android:title="@string/pref_refresh_period"
+        android:dialogTitle="@string/pref_refresh_period"
+        android:entries="@array/pref_refresh_period_entries"
+        android:entryValues="@array/pref_refresh_period_values"
+        android:defaultValue="@string/pref_refresh_period_default"/>
+
+</PreferenceScreen>
